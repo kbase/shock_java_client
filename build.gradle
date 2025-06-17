@@ -76,7 +76,7 @@ dependencies {
 
 	testImplementation 'com.github.kbase:auth2:0.7.1'
 	testImplementation 'com.github.kbase:java_test_utilities:0.1.0'
-	testImplementation 'commons-io:commons-io:2.4'
+	testImplementation 'commons-io:commons-io:2.19.0'
 	testImplementation 'org.ini4j:ini4j:0.5.2'
 	testImplementation 'junit:junit:4.9'
 	testImplementation 'net.sf.jsignature.io-tools:easystream:1.2.14'
