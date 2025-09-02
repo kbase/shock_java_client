@@ -67,8 +67,8 @@ dependencies {
 
 	// using older dependencies to not force upgrades on services that might not be able to
 	// handle them. Need to upgrade the services and then upgrade here
-	implementation 'com.fasterxml.jackson.core:jackson-annotations:2.5.4'
-	implementation 'com.fasterxml.jackson.core:jackson-databind:2.5.4'
+	implementation 'com.fasterxml.jackson.core:jackson-annotations:2.20.0'
+	implementation 'com.fasterxml.jackson.core:jackson-databind:2.20.0'
 	implementation 'org.apache.commons:commons-lang3:3.1'
 	implementation 'org.apache.httpcomponents:httpclient:4.5.9'
 	implementation 'org.apache.httpcomponents:httpmime:4.5.8'
