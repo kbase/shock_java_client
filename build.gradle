@@ -74,7 +74,7 @@ dependencies {
 	implementation 'org.apache.httpcomponents:httpmime:4.5.8'
 	implementation "com.github.kbase:auth2_client_java:$VER_AUTH2_CLIENT"
 
-	testImplementation 'com.github.kbase:auth2:0.7.1'
+	testImplementation 'com.github.kbase:auth2:0.8.1'
 	testImplementation 'com.github.kbase:java_test_utilities:0.1.0'
 	testImplementation 'commons-io:commons-io:2.4'
 	testImplementation 'org.ini4j:ini4j:0.5.2'
